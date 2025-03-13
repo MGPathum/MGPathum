@@ -1,4 +1,4 @@
-(https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif)
+[(https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif)](https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif)
 # 💫 About Me:
 🔭 I’m currently working on Alpha Wolves.<br>🌱 I’m currently studying Java Institute For Advanced Technology Sri Lanka.<br>🤝 I’m looking for help to Someone.<br>💬 Ask me about anything<br>📫 How to reach me mgpdesaman@gmail.com<br>📄 Know about my experiences talk to me +94742741902<br>⚡ Seriously I think I'm the luckiest person.<br>
 
