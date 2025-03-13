@@ -1,6 +1,6 @@
 [![MasterHead](https://media.licdn.com/dms/image/C4E12AQGCWDIkqZ_x2A/article-cover_image-shrink_600_2000/0/1642425545585?e=2147483647&v=beta&t=yBtBuTOnNhvFL3lPfLhjZbfhIPrVqGGUul5dqUPgpQc)](https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif)
 
-# 💫 About Me: 
+# 💫 About Me: <br>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif">
 
