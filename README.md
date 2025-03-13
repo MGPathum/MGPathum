@@ -1,7 +1,8 @@
 [![MasterHead](https://media.licdn.com/dms/image/C4E12AQGCWDIkqZ_x2A/article-cover_image-shrink_600_2000/0/1642425545585?e=2147483647&v=beta&t=yBtBuTOnNhvFL3lPfLhjZbfhIPrVqGGUul5dqUPgpQc)](https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif)
 # 💫 About Me: 
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif">
 🔭 I’m currently working on Alpha Wolves.<br>🌱 I’m currently studying Java Institute For Advanced Technology Sri Lanka.<br>🤝 I’m looking for help to Someone.<br>💬 Ask me about anything<br>📫 How to reach me mgpdesaman@gmail.com<br>📄 Know about my experiences talk to me +94742741902<br>⚡ Seriously I think I'm the luckiest person.<br>
-<img align-top="-500px" align="right" alt="Coding" width="400" src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif">
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mg.pathum) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MG Pathum) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mgpdesaman) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/MG_Pathum) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@mgpdesaman) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mgpdesaman@gmail.com) 
 
