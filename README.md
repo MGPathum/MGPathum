@@ -8,6 +8,18 @@
   <img src="https://komarev.com/ghpvc/?username=MGPathum&label=PROFILE+VIEWS&color=00F0FF&style=flat-square" alt="Visitor Badge" />
 </p>
 
+<p align="center">
+<a href="https://linkedin.com/in/mg-pathum" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:mgpdesaman@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://facebook.com/mgpdesaman" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
+</p>
+
 </div>
 
 ---
@@ -36,7 +48,7 @@ Highly motivated **Software Engineering Student** specialized in architecting an
 
 ## 🛠️ Specialized Tech Stack
 
-### 💻 Core Languages & Architecture
+### 💻 Languages & Architecture
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
