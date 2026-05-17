@@ -65,13 +65,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MGPathum&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=MGPathum&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MGPathum&theme=tokyonight" alt="GitHub Streak" width="48%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MGPathum&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+<img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=MGPathum&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 
 </div>
 
