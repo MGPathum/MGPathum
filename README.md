@@ -1,119 +1,215 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,15,20,30,40&height=280&section=header&text=M%20G%20Pathum%20Kaushallaya&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer&descAlignY=55&descAlign=50" alt="Header Banner" />
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=M%20G%20Pathum%20Kaushallaya&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer&descAlignY=60&descColor=8b949e&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineering+Student;Java,+Laravel+%26+React+Native+Developer;Building+Robust+Enterprise+Solutions;Turning+Complex+Logic+into+Clean+Code" alt="Typing SVG" />
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=🚀+Full+Stack+Software+Engineer;⚡+Building+Scalable+Web+%26+Mobile+Apps;🔥+Node.js+%7C+React+%7C+AWS+%7C+Docker;🎯+Problem+Solver+%7C+Clean+Code+Advocate" alt="Typing SVG" />
+</a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MGPathum&label=PROFILE+VIEWS&color=00F0FF&style=flat-square" alt="Visitor Badge" />
-</p>
-
-<p align="center">
-<a href="https://linkedin.com/in/mg-pathum" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:mgpdesaman@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-<a href="https://facebook.com/mgpdesaman" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-</a>
-<a href="https://wa.me/94742741902" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-</a>
-<a href="https://instagram.com/mgpdesaman" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-</p>
+<!-- Profile View Counter -->
+<img src="https://komarev.com/ghpvc/?username=MGPathum&label=Profile+Views&color=58a6ff&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/MGPathum?label=Followers&style=for-the-badge&color=58a6ff&labelColor=1a1a2e" alt="Followers"/>
 
 </div>
 
 ---
 
-## 👨‍💻 Professional Summary
+<!-- About Me Section -->
+<img align="right" alt="Coding Animation" width="380" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"/>
 
-Highly motivated **Software Engineering Student** specialized in architecting and developing scalable desktop, web, and mobile solutions. Experienced in managing core development lifecycles using robust backend environments (Java, PHP/Laravel) and modern frontend/mobile frameworks. 
+### 👨‍💻 About Me
 
-- 🎓 Enrolled at **Java Institute for Advanced Technology**.
-- 🚀 Actively building high-performance, real-world systems with a focus on automation and security.
-- 🧠 Deeply interested in local LLMs, AI-assisted development (Cursor AI), and kernel-level operating system optimization.
+```typescript
+const Pathum = {
+  name: "M G Pathum Kaushallaya",
+  role: "Full Stack Software Engineer",
+  location: "Sri Lanka 🇱🇰",
+  
+  expertise: [
+    "Scalable Backend Architecture",
+    "Real-time Systems",
+    "Cloud Infrastructure",
+    "Mobile Development"
+  ],
+  
+  currentFocus: "Building high-performance systems",
+  philosophy: "You don't have to be a genius to create a system. 
+               You have to be a whole thinker 💡"
+};
+```
+
+- 🔭 Working on **enterprise-grade full stack applications**
+- 🌱 Exploring **microservices, event-driven architecture & AI integrations**
+- 💡 Passionate about **clean code, system design & developer experience**
+- ⚡ Fun fact: **I debug in my sleep... literally**
+
+<br clear="right"/>
 
 ---
 
-## 🚀 Key Projects & Products
-
-| Project Name | Tech Stack | Key Focus |
-| :--- | :--- | :--- |
-| **Smart Invoice Manager** | PHP, Laravel, MySQL | Professional web-based invoice automation & financial logs management. |
-| **QRTend System** | Laravel, QR Engine, SQL | Full-stack attendance tracking system with instant PDF/Excel exporting. |
-| **NexChat Application** | React Native, Javascript | Dynamic, highly-responsive mobile messaging platform. |
-
----
-
-<div align="center">
-
+<!-- Tech Stack Section -->
 ## 🛠️ Specialized Tech Stack
 
-### 💻 Languages & Architecture
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/SQL/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+<div align="center">
 
-### ⚙️ Frameworks & Backend Services
-<p align="center">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Hibernate_ORM-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
-  <img src="https://img.shields.io/badge/Servlets_/_JSP-E34F26?style=for-the-badge&logo=oracle&oracle&logoColor=white" />
-</p>
+### ⚡ Languages & Architecture
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,go&theme=dark" />
 
-### 🔧 Development & Systems
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor_AI-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows-11&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux_OS-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+### 🌐 Frontend Ecosystem
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,sass&theme=dark" />
+
+### 🔧 Backend & APIs
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,graphql,prisma&theme=dark" />
+
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,nginx,linux&theme=dark" />
+
+### 🗄️ Databases & Storage
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,firebase,elasticsearch&theme=dark" />
+
+### 📱 Mobile & Tools
+<img src="https://skillicons.dev/icons?i=react,flutter,git,github,vscode,postman&theme=dark" />
 
 </div>
 
 ---
 
-## 🏆 System Achievements & Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MGPathum&theme=tokyonight&margin-w=15&margin-h=15&column=7&no-frame=true" alt="GitHub Trophies" />
-</p>
-
----
-
-## 📊 Live System Analytics
+<!-- Key Projects Section -->
+## 🚀 Key Projects & Products
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MGPathum&theme=tokyonight" alt="GitHub Streak" width="55%" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MGPathum&theme=tokyonight&area=true" alt="Contribution Graph" width="95%" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Total%20Contributions-238%20Checked-00F0FF?style=for-the-badge&logo=github" />  <img src="https://img.shields.io/badge/Primary%20Environment-Full--Stack%20Java%20%2F%20PHP-ED8B00?style=for-the-badge&logo=oracle" />
+| 🎯 Project | 🛠 Tech Stack | 📌 Description |
+|:-----------|:-------------|:---------------|
+| **Smart Inventory Manager** | PHP, Laravel, MySQL | Professional web-based invoice automation & financial management |
+| **iGP Engine (GPS Tracking)** | React, Node.js | Full-stack real-time vehicle monitoring with live GPS integration |
+| **DiffHub Platform** | Laravel, MySQL | Full-stack online banking platform with multi-role RBAC support |
+| **DeadLine Application** | React Native, Firebase | Highly responsive mobile task management & scheduling platform |
 
 </div>
 
 ---
 
-## 💬 Code Philosophy
+<!-- GitHub Stats Section -->
+## 📊 Live GitHub Analytics
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MGPathum&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MGPathum&layout=compact&langs_count=8&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
+
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Banner" />
-</p>
+<div align="center">
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=MGPathum&theme=github-dark-blue&border=30363d&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7043&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&sideNums=58a6ff&currStreakNum=ffffff"/>
+
+</div>
+
+<!-- Contribution Graph -->
+<div align="center">
+
+[![Pathum's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MGPathum&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1f3a5f&border_color=30363d&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<!-- Trophies -->
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=MGPathum&theme=darkhub&no-frame=false&no-bg=false&margin-w=6&margin-h=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B"/>
+
+</div>
+
+---
+
+<!-- WakaTime / Coding Activity -->
+## ⏱️ Weekly Coding Breakdown
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+```text
+TypeScript   ████████████░░░░░░░░  45.2%
+JavaScript   ██████░░░░░░░░░░░░░░  22.1%
+Python       ████░░░░░░░░░░░░░░░░  14.8%
+PHP          ██░░░░░░░░░░░░░░░░░░   8.3%
+SQL          █░░░░░░░░░░░░░░░░░░░   5.7%
+Other        █░░░░░░░░░░░░░░░░░░░   3.9%
+```
+<!--END_SECTION:waka-->
+
+</div>
+
+---
+
+<!-- Achievements & Badges -->
+## 🎖️ Achievements & Milestones
+
+<div align="center">
+
+![Achievement](https://img.shields.io/badge/🏆_Pull_Shark-Achieved-gold?style=for-the-badge&labelColor=1a1a2e)
+![Achievement](https://img.shields.io/badge/⭐_Starstruck-Achieved-gold?style=for-the-badge&labelColor=1a1a2e)
+![Achievement](https://img.shields.io/badge/🧊_Arctic_Code_Vault-2020-58a6ff?style=for-the-badge&labelColor=1a1a2e)
+![Achievement](https://img.shields.io/badge/🔥_7_Day_Streak-Active-ff7043?style=for-the-badge&labelColor=1a1a2e)
+![Achievement](https://img.shields.io/badge/👁️_Open_Source-Contributor-58a6ff?style=for-the-badge&labelColor=1a1a2e)
+
+</div>
+
+---
+
+<!-- Snake Animation -->
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MGPathum/MGPathum/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MGPathum/MGPathum/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MGPathum/MGPathum/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+</div>
+
+---
+
+<!-- Code Philosophy -->
+## 💭 Code Philosophy
+
+<div align="center">
+
+> *"You don't have to be a genius to create a system.*
+> *You have to be a whole thinker."*
+> 
+> **— Pathum Kaushallaya**
+
+</div>
+
+---
+
+<!-- Connect Section -->
+## 🌐 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/MGPathum)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://mgpathum.dev)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mgpathum@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MGPathum)
+
+</div>
+
+---
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&animation=fadeIn"/>
+
+<div align="center">
+  <sub>⭐ Star my repos if you find them useful! Let's build something amazing together 🚀</sub>
+</div>
