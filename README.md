@@ -4,9 +4,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=M%20G%20Pathum%20Kaushallaya&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer&descAlignY=60&descColor=8b949e&descSize=18"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=🚀+Full+Stack+Software+Engineer;⚡+Building+Scalable+Web+%26+Mobile+Apps;🔥+Node.js+%7C+React+%7C+AWS+%7C+Docker;🎯+Problem+Solver+%7C+Clean+Code+Advocate" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&height=50&lines=%F0%9F%9A%80+Full+Stack+Software+Engineer;%E2%9A%A1+Building+Scalable+Web+%26+Mobile+Apps;%F0%9F%94%A5+Node.js+%7C+React+%7C+AWS+%7C+Docker;%F0%9F%8E%AF+Problem+Solver+%7C+Clean+Code+Advocate" alt="Typing SVG" />
+
+<br/>
 
 <!-- Profile View Counter -->
 <img src="https://komarev.com/ghpvc/?username=MGPathum&label=Profile+Views&color=58a6ff&style=for-the-badge" alt="Profile Views"/>
@@ -17,7 +17,7 @@
 ---
 
 <!-- About Me Section -->
-<img align="right" alt="Coding Animation" width="380" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"/>
+<img align="right" alt="Coding Animation" width="360" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"/>
 
 ### 👨‍💻 About Me
 
@@ -26,17 +26,14 @@ const Pathum = {
   name: "M G Pathum Kaushallaya",
   role: "Full Stack Software Engineer",
   location: "Sri Lanka 🇱🇰",
-  
   expertise: [
     "Scalable Backend Architecture",
     "Real-time Systems",
     "Cloud Infrastructure",
     "Mobile Development"
   ],
-  
   currentFocus: "Building high-performance systems",
-  philosophy: "You don't have to be a genius to create a system. 
-               You have to be a whole thinker 💡"
+  philosophy: "You don't have to be a genius to create a system. You have to be a whole thinker 💡"
 };
 ```
 
@@ -55,13 +52,13 @@ const Pathum = {
 <div align="center">
 
 ### ⚡ Languages & Architecture
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,go&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,php,go&theme=dark" />
 
 ### 🌐 Frontend Ecosystem
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,sass&theme=dark" />
 
 ### 🔧 Backend & APIs
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,graphql,prisma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,graphql,prisma&theme=dark" />
 
 ### ☁️ Cloud & DevOps
 <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,nginx,linux&theme=dark" />
@@ -70,7 +67,7 @@ const Pathum = {
 <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,firebase,elasticsearch&theme=dark" />
 
 ### 📱 Mobile & Tools
-<img src="https://skillicons.dev/icons?i=react,flutter,git,github,vscode,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flutter,git,github,vscode,postman,figma&theme=dark" />
 
 </div>
 
@@ -105,11 +102,10 @@ const Pathum = {
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=MGPathum&theme=github-dark-blue&border=30363d&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7043&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&sideNums=58a6ff&currStreakNum=ffffff"/>
+<img width="70%" src="https://streak-stats.demolab.com/?user=MGPathum&theme=github-dark-blue&border=30363d&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7043&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&sideNums=58a6ff&currStreakNum=ffffff"/>
 
 </div>
 
-<!-- Contribution Graph -->
 <div align="center">
 
 [![Pathum's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MGPathum&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1f3a5f&border_color=30363d&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -129,36 +125,16 @@ const Pathum = {
 
 ---
 
-<!-- WakaTime / Coding Activity -->
-## ⏱️ Weekly Coding Breakdown
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-```text
-TypeScript   ████████████░░░░░░░░  45.2%
-JavaScript   ██████░░░░░░░░░░░░░░  22.1%
-Python       ████░░░░░░░░░░░░░░░░  14.8%
-PHP          ██░░░░░░░░░░░░░░░░░░   8.3%
-SQL          █░░░░░░░░░░░░░░░░░░░   5.7%
-Other        █░░░░░░░░░░░░░░░░░░░   3.9%
-```
-<!--END_SECTION:waka-->
-
-</div>
-
----
-
 <!-- Achievements & Badges -->
 ## 🎖️ Achievements & Milestones
 
 <div align="center">
 
-![Achievement](https://img.shields.io/badge/🏆_Pull_Shark-Achieved-gold?style=for-the-badge&labelColor=1a1a2e)
-![Achievement](https://img.shields.io/badge/⭐_Starstruck-Achieved-gold?style=for-the-badge&labelColor=1a1a2e)
-![Achievement](https://img.shields.io/badge/🧊_Arctic_Code_Vault-2020-58a6ff?style=for-the-badge&labelColor=1a1a2e)
-![Achievement](https://img.shields.io/badge/🔥_7_Day_Streak-Active-ff7043?style=for-the-badge&labelColor=1a1a2e)
-![Achievement](https://img.shields.io/badge/👁️_Open_Source-Contributor-58a6ff?style=for-the-badge&labelColor=1a1a2e)
+![Achievement](https://img.shields.io/badge/%F0%9F%8F%86_Pull_Shark-Achieved-gold?style=for-the-badge&labelColor=1a1a2e)
+![Achievement](https://img.shields.io/badge/%E2%AD%90_Starstruck-Achieved-gold?style=for-the-badge&labelColor=1a1a2e)
+![Achievement](https://img.shields.io/badge/%F0%9F%A7%8A_Arctic_Code_Vault-2020-58a6ff?style=for-the-badge&labelColor=1a1a2e)
+![Achievement](https://img.shields.io/badge/%F0%9F%94%A5_Active_Streak-Ongoing-ff7043?style=for-the-badge&labelColor=1a1a2e)
+![Achievement](https://img.shields.io/badge/%F0%9F%91%81_Open_Source-Contributor-58a6ff?style=for-the-badge&labelColor=1a1a2e)
 
 </div>
 
@@ -186,7 +162,7 @@ Other        █░░░░░░░░░░░░░░░░░░░   3.9%
 
 > *"You don't have to be a genius to create a system.*
 > *You have to be a whole thinker."*
-> 
+>
 > **— Pathum Kaushallaya**
 
 </div>
